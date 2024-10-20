@@ -18,6 +18,7 @@ package P1;
  * 1 <= s.length <= 104
  * s 由小写英文字母组成
  */
+//改的很好，能够把程序中的逻辑错误改正，符合题目要求。
 class Solution2 {
     public String removeDuplicateLetters(String s) {
         boolean[] vis = new boolean[25];
