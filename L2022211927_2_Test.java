@@ -8,7 +8,7 @@ public class L2022211927_2_Test {
 
     Solution2 solution2 = new Solution2();
 
-
+   //测试考虑得非常全面，写的非常好。
     /**
      * 空的字符串
      * 单个字符
